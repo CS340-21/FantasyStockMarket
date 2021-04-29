@@ -141,12 +141,13 @@ button {
 }
 .stock-option-container {
   width: 100%;
+  height: 176px;
   border: 1px solid black;
   background: rgba(207, 167, 48, .5);
   display: table;
 }
 .stock-option-container h3, #quest-outer-container h3 {
-  margin-top: 0;
+  margin-top: 3%;
   margin-bottom: 5px;
 }
 .stock-option-container button, #quest-inner-container button {
